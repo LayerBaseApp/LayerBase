@@ -92,7 +92,7 @@ Examples include:
 * Find older files that used a particular pressure-advance value
 * Find files by name, tag, source, or location
 
-![LayerBase Library](AdvancedSearch.png)
+![LayerBase Library](LayerBase_AdvancedSearch.png)
 
 Advanced searches can be saved and reopened later. Multiple searches can remain open at the same time, allowing you to investigate different groups of files without repeatedly rebuilding your filters.
 
