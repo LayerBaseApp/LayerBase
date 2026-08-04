@@ -171,7 +171,7 @@ Your files can belong to more than one list, allowing you to organize the same f
 
 Comparative G-code analysis was the original goal of LayerBase. However, once a searchable file library existed, it made sense to expand its purpose.
 
-LayerBase can also be used to organize STL files.
+LayerBase can also be used to organize STL and other supporting 3D model files (step, obj, etc).
 
 You can:
 
