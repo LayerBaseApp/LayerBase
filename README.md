@@ -1,5 +1,3 @@
-## Preview
-
 ![LayerBase Library](LayerBase_Library.png)
 
 # LayerBase
@@ -64,6 +62,8 @@ LayerBase can help identify changes involving:
 * Seam settings
 * Other settings exported by OrcaSlicer
 
+![LayerBase Library](LayerBase_Compare.png)
+
 Differences are presented in a readable format so you do not have to search through raw G-code manually.
 
 This makes it easier to answer questions such as:
@@ -92,6 +92,8 @@ Examples include:
 * Find older files that used a particular pressure-advance value
 * Find files by name, tag, source, or location
 
+![LayerBase Library](AdvancedSearch.png)
+
 Advanced searches can be saved and reopened later. Multiple searches can remain open at the same time, allowing you to investigate different groups of files without repeatedly rebuilding your filters.
 
 ---
@@ -113,6 +115,10 @@ Ratings can include an overall score along with more detailed print-quality obse
 * Dimensional accuracy
 
 This creates a connection between the settings contained in a file and the real-world result produced by those settings.
+
+![LayerBase Library](LayerBase_Rating1.png)
+
+![LayerBase Library](LayerBase_Rating2.png)
 
 ---
 
