@@ -668,9 +668,7 @@ Instead of asking, “What did I change?” or “Why did this print look better
 
 ## Support LayerBase
 
-Developing and maintaining LayerBase requires time, testing hardware, storage, development tools, and continued compatibility work as slicers and operating systems evolve.
-
-Those who find the project useful and would like to support its continued development may contribute through the project’s support page.
+LayerBase is under active development. Optional contributions help support testing hardware, development, documentation, and the work required to prepare the first public release.
 
 Financial support may be used for:
 
