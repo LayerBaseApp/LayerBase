@@ -10,6 +10,14 @@ It was created primarily for OrcaSlicer-generated G-code, but LayerBase can also
 
 > **Project status:** LayerBase is currently under active development and is being released for testing. Features, database structures, and installation procedures may change before the first stable release.
 
+## Free and Open Source
+
+LayerBase will be released as free and open-source software.
+
+The project is committed to remaining freely available to the 3D-printing community. Core LayerBase functionality will not be placed behind a subscription, paid license, or feature paywall.
+
+LayerBase is being developed independently. Financial support is never required to download, use, test, or contribute to the project.
+
 ---
 
 ## Why LayerBase Exists
@@ -639,14 +647,6 @@ Code contributions should include appropriate documentation and testing whenever
 
 ---
 
-## License
-
-LayerBase will be released under the **[LICENSE NAME]** license.
-
-See the `LICENSE` file for the complete terms.
-
----
-
 ## Final Summary
 
 LayerBase began as a way to compare calibration files and understand how slicer settings changed between print iterations.
@@ -664,4 +664,34 @@ Source code and installation instructions will be added when the first testing b
 Instead of asking, “What did I change?” or “Why did this print look better six months ago?” LayerBase helps you find the answer.
 
 **Every File. Every Print. Every Setting. One Searchable Database.**
+
+
+## Support LayerBase
+
+Developing and maintaining LayerBase requires time, testing hardware, storage, development tools, and continued compatibility work as slicers and operating systems evolve.
+
+Those who find the project useful and would like to support its continued development may contribute through the project’s support page.
+
+Financial support may be used for:
+
+* Development and testing hardware
+* Storage and backup services
+* Domain and project infrastructure costs
+* Testing across additional devices and operating systems
+* Continued development, documentation, and maintenance
+
+Supporting LayerBase is entirely optional. Every supporter receives the same publicly released software, and contributions do not purchase features, priority support, or control over the project roadmap.
+
+Thank you for helping keep LayerBase active, independent, free, and open source.
+
+---
+
+## License
+
+LayerBase will be released under the **GNU Affero General Public License v3.0-AGPL-3.0** license.
+
+See the `LICENSE` file for the complete terms.
+
+
+
 
