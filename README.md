@@ -688,7 +688,7 @@ Thank you for helping keep LayerBase active, independent, free, and open source.
 
 ## License
 
-LayerBase will be released under the **GNU Affero General Public License v3.0-AGPL-3.0** license.
+Planned license: LayerBase will be released under the **GNU Affero General Public License v3.0-AGPL-3.0** license. The license will be released when the source code is published.
 
 See the `LICENSE` file for the complete terms.
 
